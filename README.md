@@ -1,1 +1,1 @@
-# SWHDiscordBot
+# SWHDiscordBots
